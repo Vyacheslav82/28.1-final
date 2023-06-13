@@ -1,0 +1,9 @@
+pytest
+
+pytest-selenium
+
+urllib.parse
+
+urllib3
+
+pytest-base-url
